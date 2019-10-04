@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/home/tony/Documents/platzi/ContactApp/contactapp-74f38-firebase-adminsdk-tglfz-4c9b66fcc1.json"
